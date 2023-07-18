@@ -1,3 +1,2 @@
 # codeForKid
-Tit and Teu
-tit lon loi
+This is the tutorial for my bro to increase their Coding skill.
