@@ -24,16 +24,17 @@ int main()
     bool swapped = true;
     do {
         swapped = false;
-        for (int i = 1; i <= n-1; i++)
+        for (int i = 1; i < n; i++)
         if(a[i] > a[i+1]){
             swapInt(a[i], a[i+1]);
+            swapped == true;
         }
 
     }
     while (swapped);
 
     for(int i = 1; i <= n; i++) {
-        cout << a[i] << a[i];
+        cout << a[i] << " ";
     }
     return 0;
 }

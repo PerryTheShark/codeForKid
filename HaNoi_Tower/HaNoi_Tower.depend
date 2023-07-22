@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689989656 source:d:\codeforkid\hanoi_tower\main.cpp
+	<iostream>
+	<cstdio>
+

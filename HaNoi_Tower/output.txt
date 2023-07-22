@@ -1,0 +1,7 @@
+Cot_1 -> Cot_3
+Cot_1 -> Cot_2
+Cot_3 -> Cot_2
+Cot_1 -> Cot_3
+Cot_2 -> Cot_1
+Cot_2 -> Cot_3
+Cot_1 -> Cot_3
